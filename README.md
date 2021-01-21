@@ -7,11 +7,11 @@
 ### Hi there 👋
 - 💬 Ask me about [https://blog.acgrule.tk](https://blog.acgrule.tk)
 - 📫 How to reach me: **acgnwang@qq.com**
-- [😄国内克隆下载缓慢或页面媒体资源无法显示请点击这里解决办法](https://www.cnblogs.com/chainsR/p/14191189.html)
+- [🤔国内克隆下载缓慢或页面媒体资源无法显示の解决办法](https://www.cnblogs.com/chainsR/p/14191189.html)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=acgnwang)](https://github.com/acgnwang/acgnwang)
 
-**访问量**（自2021.01.21 11:00:00）
+**访问量🤔**（自2021.01.21 11:00:00）
 
 ![](https://count.getloli.com/get/@acgnwang@acgnwang?theme=gelbooru)
 <!--
