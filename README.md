@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 💬 Ask me about [https://blog.acgrule.tk](https://blog.acgrule.tk)
 - 📫 How to reach me: **acgnwang@qq.com**
+- [😄国内克隆下载缓慢或页面媒体资源无法显示请点击这里解决办法](https://www.cnblogs.com/chainsR/p/14191189.html)
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
