@@ -1,18 +1,18 @@
+<!-- [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic.svg?type=shield)]
+(https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic?ref=badge_shield) -->
+![](https://img.shields.io/github/last-commit/acgnwang/acgnwang?style=for-the-badge) 
+![](https://img.shields.io/github/repo-size/acgnwang/acgnwang?style=for-the-badge) 
+![](https://data.jsdelivr.com/v1/package/gh/acgnwang/acgnwang/badge)
+
 ### Hi there 👋
 - 💬 Ask me about [https://blog.acgrule.tk](https://blog.acgrule.tk)
 - 📫 How to reach me: **acgnwang@qq.com**
 - [😄国内克隆下载缓慢或页面媒体资源无法显示请点击这里解决办法](https://www.cnblogs.com/chainsR/p/14191189.html)
 - [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=acgnwang)](https://github.com/acgnwang/acgnwang)
-<!-- [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic.svg?type=shield)]
-(https://app.fossa.com/projects/git%2Bgithub.com%2FGamerNoTitle%2FValine-Magic?ref=badge_shield) -->
-![](https://data.jsdelivr.com/v1/package/gh/acgnwang/acgnwang/badge)
-![](https://img.shields.io/github/last-commit/acgnwang/acgnwang?style=for-the-badge) 
-![](https://img.shields.io/github/repo-size/acgnwang/acgnwang?style=for-the-badge) 
 
 **访问量**（自2021.01.21 11:00:00）
 
 ![](https://count.getloli.com/get/@acgnwang@acgnwang?theme=gelbooru)
-
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
