@@ -5,9 +5,9 @@
 ![](https://data.jsdelivr.com/v1/package/gh/acgnwang/acgnwang/badge)
 
 ### Hi there 👋
-- 💬 Ask me about [https://blog.acgrule.tk](https://up.ci)
+- 💬 Ask me about [https://up.ci](https://up.ci)
 - 📫 How to reach me: **acgnwang@qq.com**
-- [🤔国内克隆下载缓慢或页面媒体资源无法显示の解决办法](https://www.cnblogs.com/chainsR/p/14191189.html)
+- [🤔国内克隆下载缓慢或页面媒体资源无法显示の解决办法](https://www.cnblogs.com/aichi0v0/p/14191189.html)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=acgnwang)](https://github.com/acgnwang/acgnwang)
 
